@@ -1,0 +1,4 @@
+Eleve: RANDRIA Rova Julio Alson 21328102
+-Ouvrir un serveur local tel : XAMPP,Wamp etc
+-Injecter les bases de données : sql\database.sql et sql\categorie.sql
+-Ouvrir le fichier Documents pour lire les informations à propos du projet et son fonctionnement
